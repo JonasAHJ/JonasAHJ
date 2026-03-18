@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JonasAHJ, Jonas Joensen
 - 👀 I’m interested in Electronic Systems and Networks. 
-- 🌱 I’m currently studying Electronic Systems at Aalborg University (8th semester)  
-- 💞️ I am experienced with collaborating with external partners, having done so several times in my Bachelors. I will be in an external internship at the end of 2025
+- 🌱 I’m currently studying Electronic Systems at Aalborg University (10th semester)  
+- 💞️ I am experienced with collaborating with external partners, having done so several times in my Bachelors and Masters.
 - 📫 I can be reached on either my private email jonasAHJ@gmail.com or my school mail jjoe21@student.aau.dk
 
 <!---
